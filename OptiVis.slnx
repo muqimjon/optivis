@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/backend/OptiVis.API/OptiVis.API.csproj" />
+    <Project Path="src/backend/OptiVis.Application/OptiVis.Application.csproj" />
+    <Project Path="src/backend/OptiVis.Domain/OptiVis.Domain.csproj" />
+    <Project Path="src/backend/OptiVis.Infrastructure/OptiVis.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/frontend/">
+    <Project Path="src/frontend/OptiVis.Desktop/OptiVis.Desktop.csproj" />
+    <Project Path="src/frontend/OptiVis.UI.Shared/OptiVis.UI.Shared.csproj" />
+  </Folder>
+</Solution>
